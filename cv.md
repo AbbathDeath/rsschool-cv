@@ -12,7 +12,14 @@
   * Css
 
 ## Code example:
-  
+  ```
+  function sum(a, b) {
+    return a + b;
+  }
+
+  let result = sum(1, 2);
+  alert(result); 
+  ```
 ## Work experience:
   I have no prior experience
 
@@ -23,3 +30,4 @@
   * Russian - native
   * English - B1
   * Polish - B1
+
